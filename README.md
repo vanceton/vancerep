@@ -1,5 +1,5 @@
 # vancerep
 
-My first rep on github
+my first rep on github
 
-I love :pizza: 
+i love :pizza:
